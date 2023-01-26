@@ -58,7 +58,7 @@ h1 {
 
 
 /*Hero image style*/
-/*Main body section style*/
+
 /*Footer style*/
 
 .footer {
@@ -78,7 +78,7 @@ h1 {
      font-size: small;
      float: left;
      text-transform: uppercase;
-     color: #fff;
+     color: #3a3838;
      margin-left: 30px;
 }
 
@@ -117,17 +117,21 @@ h1 {
     margin-bottom: 70px;
     background-color: #ebb72b;
     line-height:2;
+    text: justify;
   }
 
   /* about me section image*/
-  
-.large-profile {
-    background: url('');
+
+.profile-picture {
+    background: url('../images/Contactpicture.jpg');
     background-size: cover;
     background-position: center;
   }
 
 /*destinations style*/
+
 /*Photography style*/
+
 /*japan style*/
+
 /*iceland*/
