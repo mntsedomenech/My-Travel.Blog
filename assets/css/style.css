@@ -1,11 +1,77 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Oswald:wght@300&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
+body {
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
+    color: #444242;
+}
 
 /* Head style*/
+h1 {
+    font-family: oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #3a3838;
+
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+}
+
+#menu {
+    font-size:150%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 100px;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu a:hover {
+    border-bottom: 1px slid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
 /*Hero image style*/
 /*Main body section style*/
 /*Footer style*/
+
+#copyright {
+
+     font-family: montserrat, sans-serif;
+     font-size: small;
+     float: left;
+     text-transform: uppercase;
+     color: #3a3838;
+     margin-left: 30px;
+}
+
+
 /*contact form style*/
 /*destinations style*/
 /*Photography style*/
