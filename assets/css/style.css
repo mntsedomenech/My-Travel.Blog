@@ -152,7 +152,7 @@ h1 {
     margin-bottom: 70px;
     background-color: #ebb72b;
     line-height:2;
-    text: justify;
+    text-justify:auto; 
   }
 
   /* about me section image*/
@@ -165,23 +165,6 @@ h1 {
 
 /*destinations style*/
 
-.section-heading {
-  text-align: center;
-  color: #3a3838;
-  margin-top: 150px;
-  margin-bottom: 70px;
-  font-size: 35px;
-  padding: 25%;
-  margin: 100%;
-}
-
-.column-2 {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  margin: 20%;
-  height: 250px;
-}
 
 /*Photography style*/
 
