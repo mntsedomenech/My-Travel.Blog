@@ -76,7 +76,7 @@ h1 {
 #hero-image {
   height: 600px;
   width: 100%;
-  background-image: url("../images/heroimage.jpg") no-repeat center center;
+  background-image: url("../images/heroimage.jpg") no-repeat center;
   animation-name: hero-zoom;
   animation-duration: 7s;
   animation-fill-mode: forwards;
@@ -165,6 +165,24 @@ h1 {
 
 /*destinations style*/
 
+.section-heading {
+  text-align: center;
+  color: #3a3838;
+  margin-top: 150px;
+  margin-bottom: 70px;
+  font-size: 35px;
+  padding: 25%;
+  margin: 100%;
+}
+
+.column-2 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  margin: 20%;
+  height: 250px;
+}
+
 /*Photography style*/
 
 #tripimages {
@@ -181,3 +199,10 @@ h1 {
 /*japan style*/
 
 /*iceland*/
+
+/*Contact Me Form*/
+
+
+
+  
+  
