@@ -165,6 +165,12 @@ h1 {
 
 /*destinations style*/
 
+.parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 10px;
+}
+  
 
 /*Photography style*/
 
