@@ -187,7 +187,45 @@ h1 {
 
 /*japan style*/
 
+.headerjapan {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #fff;
+}
+
+.leftcolumnjapan {
+  float: left;
+  width: 75%;
+}
+
+.rightcolumnjapan {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+.japanpic {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /*iceland*/
+
+
 
 /*Contact Me Form*/
 
