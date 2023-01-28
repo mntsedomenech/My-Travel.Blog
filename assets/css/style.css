@@ -134,6 +134,28 @@ input[type=text], select, textarea {
     column-count: 1;
   }
 
+  /*Destinations style blog*/
+
+ .left-colum {
+    float: left;
+    width: 75%;
+
+ }
+
+ .right-colum {
+    width: 25%;
+    float: right;
+ }
+
+ .card {
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+ .card img {
+    width: 100%;
+ }
+
 
   
   
