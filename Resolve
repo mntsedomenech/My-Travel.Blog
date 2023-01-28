@@ -1,0 +1,11 @@
+ 
+    <footer id="footer">
+        <h1 id="copyright">Copyright 2023 The Roaming Pumpkin - All Rights Reserved</h1>
+        <div class="footer-content-right">
+            <a href="https://www.instagram.com"><img src="assets/images/instagram.webp" class="icon-style" alt="Instagram icon"></a>
+            <a href="https://www.pinterest.com"><img src="assets/images/pinterest.png" class="icon-style" alt="Pinterest icon"></a>
+            <a href="https://www.twitter.com"><img src="assets/images/twitter.webp" class="icon-style" alt="Twitter icon"></a>
+          </div>
+    </footer>
+</body>
+</html>
